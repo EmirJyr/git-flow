@@ -3,6 +3,7 @@ function App() {
     <>
       <h1>HEADER</h1>
       <h3>Hello Boranes</h3>
+      <h4>Footer</h4>
     </>
   );
 }
