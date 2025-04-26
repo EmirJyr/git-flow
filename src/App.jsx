@@ -1,14 +1,10 @@
-import DataOfUsers from "./components/data/dataOfUsers";
-
 function App() {
-
-
   return (
     <>
-      <h1>Hello Boranes</h1>
-      <DataOfUsers/>
-      </>
-  )
+      <h1>HEADER</h1>
+      <h3>Hello Boranes</h3>
+    </>
+  );
 }
 
 export default App;
